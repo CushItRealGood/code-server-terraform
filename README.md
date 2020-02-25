@@ -1,5 +1,5 @@
 # Code Server Terraform
-`code-server-terraform` is [VS Code](https://github.com/Microsoft/vscode) compiled by the team at [cdr](https://github.com/cdr) and running terraform on a remote server, accessible through the browser.
+`code-server-terraform` is [VS Code](https://github.com/Microsoft/vscode) compiled by the team at [cdr](https://github.com/cdr) and running [terraform](https://www.terraform.io/) on a remote server, accessible through the browser.
 
 Try it out:
 
