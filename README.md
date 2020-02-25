@@ -6,3 +6,4 @@ Try it out:
 ```bash
 docker run -it -p 127.0.0.1:8080:8080 -v "$PWD:/home/coder/project" cush/code-server
 ```
+ A docker compose example can be found [here]( https://github.com/cdr/code-server/blob/master/docker-compose.yml).
