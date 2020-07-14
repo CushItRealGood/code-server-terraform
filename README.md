@@ -1,3 +1,6 @@
+# [DEPRECATED]
+I will maintain https://www.github.com/CushItRealGood/code-server-docker instead of this repo because of the added support for awscli.
+
 # Code Server Terraform
 `code-server-terraform` is [VS Code](https://github.com/Microsoft/vscode) compiled by the team at [cdr](https://github.com/cdr) and running [terraform](https://www.terraform.io/) on a remote server, accessible through the browser.
 
